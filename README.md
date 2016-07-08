@@ -16,7 +16,7 @@ The output of the above will be in a url, and you can now go configure Slack!
 
 # Configure Slack
 
-* Go to <yourslackteam>.slack.com/apps/build
+* Go to &lt;yourslackteam&gt;.slack.com/apps/build
 * Click on 'Make a Custom Integration'
 * Select 'Slash Commands'
 * Pick a command for the bot, I chose `/roller`, then click 'Add Slash Command Integration'
